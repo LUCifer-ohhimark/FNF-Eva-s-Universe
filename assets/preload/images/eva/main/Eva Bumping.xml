@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Eva Bumping.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eva menu anim0000" x="0" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0001" x="651" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0002" x="1302" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0003" x="1953" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0004" x="2604" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0005" x="3255" y="0" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0006" x="0" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0007" x="651" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0008" x="651" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0009" x="1302" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0010" x="1302" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0011" x="1302" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0012" x="1302" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0013" x="1953" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0014" x="1953" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0015" x="2604" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0016" x="3255" y="701" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0017" x="0" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0018" x="651" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0019" x="1302" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0020" x="1953" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0021" x="1953" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0022" x="1953" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0023" x="2604" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0024" x="2604" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0025" x="2604" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0026" x="3255" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0027" x="3255" y="1402" width="651" height="701"/>
+	<SubTexture name="Eva menu anim0028" x="3255" y="1402" width="651" height="701"/>
+</TextureAtlas>
